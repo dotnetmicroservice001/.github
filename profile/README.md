@@ -23,8 +23,8 @@ Players browse items, make purchases, and see live order status updates.
 - [**Inventory Service**](https://github.com/dotnetmicroservice001/Play.Inventory) — Stock management, grants, availability events  
 - [**Trading Service**](https://github.com/dotnetmicroservice001/Play.Trading) — Saga-based orchestration of reservations and wallet debits  
 - [**Frontend (React SPA)**](https://github.com/dotnetmicroservice001/Play.Frontend) — Live status updates via SignalR
-- [**Common Library**](https://github.com/dotnet-microservices/Play.Common) — Shared contracts, logging, telemetry, and DI setup across services  
-- [**Infra**](https://github.com/dotnet-microservices/Play.Infra) — Certificates, Kubernetes manifests, Helm charts
+- [**Common Library**](https://github.com/dotnetmicroservices001/Play.Common) — Shared contracts, logging, telemetry, and DI setup across services (private) 
+- [**Infra**](https://github.com/dotnetmicroservices001/Play.Infra) — Certificates, Kubernetes manifests, Helm charts (private)
 ---
 
 ## 🛠️ Tech Stack
