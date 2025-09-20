@@ -11,7 +11,7 @@ Players browse items, make purchases, and see live order status updates.
 
 ## 🔴 Live Demo
 
-- **Website:** [GamePlayEconomy LIVE]https:gameplayeconomy.com  
+- **Website:** [GamePlayEconomy LIVE](https:gameplayeconomy.com)  
 
 
 ---
