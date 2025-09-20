@@ -1,31 +1,30 @@
-## Hi there, dotnetmicroservices001 is a home for my dotnet projects. 
+Hi there, dotnetmicroservices001 is a home for my dotnet projects. 
 
-
-
-# Play Economy
+# GamePlay Economy
 
 **A cloud-native, event-driven marketplace built with .NET 8 microservices and a React SPA**
 
-Play Economy is a study/practice on how to design, ship, and operate a **secure, resilient, and observable distributed application**.
+GamePlay Economy is a study/practice on how to design, ship, and operate a **secure, resilient, and observable distributed application**.
 Players browse items, make purchases, and see live order status updates.
 
 ---
 
 ## 🔴 Live Demo
 
-- **Website:** https:gameplayeconomy.com  
+- **Website:** [GamePlayEconomy LIVE]https:gameplayeconomy.com  
 
 
 ---
 
 ## 🧩 System Overview
 
-- **Identity Service** — OAuth 2.0 (PKCE), role-aware JWTs  
-- **Catalog Service** — Item definitions, prices 
-- **Inventory Service** — Stock management, grants, availability events  
-- **Orders Service** — Saga-based orchestration of reservations and wallet debits  
-- **Frontend (React SPA)** — Live status updates via SignalR
-
+- [**Identity Service**](https://github.com/dotnetmicroservice001/Play.Identity) - OAuth 2.0 (PKCE), role-aware JWTs  
+- [**Catalog Service**](https://github.com/dotnetmicroservice001/Play.Catalog) — Item definitions, prices 
+- [**Inventory Service**](https://github.com/dotnetmicroservice001/Play.Inventory) — Stock management, grants, availability events  
+- [**Trading Service**](https://github.com/dotnetmicroservice001/Play.Trading) — Saga-based orchestration of reservations and wallet debits  
+- [**Frontend (React SPA)**](https://github.com/dotnetmicroservice001/Play.Frontend) — Live status updates via SignalR
+- [**Common Library**](https://github.com/dotnet-microservices/Play.Common) — Shared contracts, logging, telemetry, and DI setup across services  
+- [**Infra**](https://github.com/dotnet-microservices/Play.Infra) — Certificates, Kubernetes manifests, Helm charts
 ---
 
 ## 🛠️ Tech Stack
