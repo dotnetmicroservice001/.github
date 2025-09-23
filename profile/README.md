@@ -11,7 +11,7 @@ Players browse items, make purchases, and see live order status updates.
 
 ## 🔴 Live Demo
 
-- **Website:** [GamePlayEconomy LIVE](https:gameplayeconomy.com)  
+- **Website:** [GamePlayEconomy LIVE](https://gameplayeconomy.com)  
 
 
 ---
@@ -26,6 +26,10 @@ Players browse items, make purchases, and see live order status updates.
 - [**Common Library**](https://github.com/dotnetmicroservices001/Play.Common) — Shared contracts, logging, telemetry, and DI setup across services (private) 
 - [**Infra**](https://github.com/dotnetmicroservices001/Play.Infra) — Certificates, Kubernetes manifests, Helm charts (private)
 ---
+
+## Architecture Map 
+
+<img width="827" height="583" alt="Architecture Map" src="https://github.com/user-attachments/assets/0efdb119-4484-458d-a2be-9d9f79ccb86e" />
 
 ## 🛠️ Tech Stack
 
