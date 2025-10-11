@@ -1,6 +1,5 @@
-Hi there, dotnetmicroservices001 is a home for my dotnet projects. 
 
-# GamePlay Economy
+# GamePlayEconomy
 
 **A cloud-native, event-driven marketplace built with .NET 8 microservices and a React SPA**
 
